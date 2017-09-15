@@ -1,0 +1,10 @@
+branding:
+  brand_name:
+    default: 'Vinkas'
+    client: true
+  brand_url:
+    default: 'https://vinkas.com'
+    client: true
+  site_name:
+    default: ''
+    client: true

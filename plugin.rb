@@ -10,7 +10,7 @@ after_initialize do
 
     class Engine < ::Rails::Engine
       engine_name PLUGIN_NAME
-      isolate_namespace DiscourseAutobot
+      isolate_namespace Vinkas
     end
 
     class Store
